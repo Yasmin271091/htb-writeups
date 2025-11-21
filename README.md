@@ -1,21 +1,41 @@
-# HackTheBox Writeups
+# 🎯 HackTheBox Writeups
 
-Colección de writeups de máquinas completadas en HackTheBox.
+Colección de writeups técnicos de máquinas de HackTheBox, documentando técnicas de pentesting, explotación y escalada de privilegios.
 
-## 📝 Máquinas Completadas
+## 👤 Sobre Mí
 
-### [Grandpa](./Grandpa/) - Easy ⭐
-- **OS**: Windows Server 2003 SP2
-- **Fecha**: Noviembre 2025
-- **Técnicas**: CVE-2017-7269, MS14-058 Privilege Escalation
-- **[📄 Ver Writeup (PDF)](./Grandpa/Grandpa_HTB_Writeup.pdf)**
+**Yasmin** - Cybersecurity Professional  
+- 🎓 Master en Cybersecurity & AI (Evolve Academy)
+- 🔐 Especialización: Pentesting, Active Directory, SOC Analysis
+- 🏆 HackTheBox 
+- 💼 Buscando oportunidades como Pentester/SOC Analyst
 
----
+## 📚 Máquinas Resueltas
 
-## 🎯 Sobre Mí
+### Windows
 
-**Yasmin Jiménez Bravo**  
-Junior Cybersecurity Specialist | HackTheBox: yas7727
+[Active](Windows/Active/) | Easy | GPP, Kerberoasting, AD Exploitation | ✅ |
 
-[LinkedIn](https://www.linkedin.com/in/yasmin-jiménez-bravo/) | [GitHub](https://github.com/Yasmin271091)
+## 🛠️ Habilidades Demostradas
+
+- **Active Directory Exploitation**
+  - Group Policy Preferences (GPP) abuse
+  - Kerberoasting attacks
+  - Domain enumeration
+
+- **Network Services**
+  - SMB enumeration and exploitation
+  - LDAP reconnaissance
+  - DNS analysis
+
+- **Credential Attacks**
+  - Hash cracking (Hashcat)
+  - Password spraying
+  - Credential dumping
+
+- **Post-Exploitation**
+  - Windows privilege escalation
+  - Lateral movement
+  - Persistence techniques
+
 
