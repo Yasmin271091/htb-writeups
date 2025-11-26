@@ -30,6 +30,7 @@ Colección de writeups técnicos documentando metodologías de pentesting, anál
 
 | Máquina | Dificultad | OS | Técnicas Principales | Writeup |
 |---------|-----------|-----|---------------------|---------|
+| **Optimum** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2012 R2 | CVE-2014-6287 (HFS 2.3 RCE), MS16-032 Privilege Escalation | [📄 PDF](./Optimum/Optimum_Writeup.pdf) |
 | **Grandpa** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2003 SP2 | CVE-2017-7269 (IIS 6.0 WebDAV), MS14-058 Privilege Escalation, Process Migration | [📄 PDF](./Grandpa/Grandpa_HTB_Writeup.pdf) |
 | **Active** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2008 | GPP Password Abuse, Kerberoasting, AD Exploitation | 🔜 Próximamente |
 
