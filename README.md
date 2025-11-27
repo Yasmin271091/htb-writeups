@@ -39,7 +39,7 @@ Colección de writeups técnicos documentando metodologías de pentesting, anál
 
 | Máquina | Dificultad | OS | Técnicas Principales | Writeup |
 |---------|-----------|-----|---------------------|---------|
-| _Próximamente..._ | - | - | - | - |
+| **Valentine** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Ubuntu 12.04 | CVE-2014-0160 (Heartbleed), SSL Memory Disclosure, SSH Key Extraction, Tmux Session Hijacking | [📄 PDF](./Valentine/Valentine_Writeup.pdf) |
 
 ---
 
@@ -129,3 +129,4 @@ Todos los writeups siguen una metodología profesional de pentesting:
 **⭐ Si estos writeups te resultan útiles, considera dar una estrella al repositorio ⭐**
 
 Made with 💙 by Yasmin | © 2025
+</div>
