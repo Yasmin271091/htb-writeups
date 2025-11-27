@@ -30,8 +30,9 @@ Colección de writeups técnicos documentando metodologías de pentesting, anál
 
 | Máquina | Dificultad | OS | Técnicas Principales | Writeup |
 |---------|-----------|-----|---------------------|---------|
-| **Optimum** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2012 R2 | CVE-2014-6287 (HFS 2.3 RCE), MS16-032 Privilege Escalation | [📄 PDF](./Optimum/Optimum_Writeup.pdf) |
-| **Grandpa** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2003 SP2 | CVE-2017-7269 (IIS 6.0 WebDAV), MS14-058 Privilege Escalation, Process Migration | [📄 PDF](./Grandpa/Grandpa_HTB_Writeup.pdf) |
+| **Devel** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows 7 | FTP Anonymous Write to IIS Webroot, ASPX Webshell Upload, MS10-015 (KiTrap0D) Privilege Escalation | [📄 PDF](./Devel/HTB_Devel_Writeup.pdf) \| [📝 DOCX](./Devel/HTB_Devel_Writeup.docx) |
+| **Optimum** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2012 R2 | CVE-2014-6287 (HFS 2.3 RCE), MS16-032 Privilege Escalation | [📄 PDF](./Optimum/HTB_Optimum_Writeup.pdf) |
+| **Grandpa** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2003 SP2 | CVE-2017-7269 (IIS 6.0 WebDAV), MS14-058 Privilege Escalation, Process Migration | [📄 PDF](./Grandpa/HTB_Grandpa_Writeup.pdf) |
 | **Active** | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Windows Server 2008 | GPP Password Abuse, Kerberoasting, AD Exploitation | 🔜 Próximamente |
 
 ### 🐧 Linux Systems
@@ -128,5 +129,3 @@ Todos los writeups siguen una metodología profesional de pentesting:
 **⭐ Si estos writeups te resultan útiles, considera dar una estrella al repositorio ⭐**
 
 Made with 💙 by Yasmin | © 2025
-
-</div>
